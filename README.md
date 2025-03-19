@@ -161,7 +161,7 @@ Below is an example of how the basket system can be used in a real scenario:
 
 Expected Output:
 
-- Final Total: $60.85
+- Final Total: $77.32
 
 ## Author
 
